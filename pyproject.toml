@@ -47,6 +47,7 @@ dependencies = [
     # startup at the first @mcp.tool() with a PydanticUserError. Keep both in sync.
     "mcp[cli]>=1.13,<2",
     "pydantic>=2.11,<3",
+    "Pillow>=10.0",
 ]
 
 [project.optional-dependencies]

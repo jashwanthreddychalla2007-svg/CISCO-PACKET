@@ -6,6 +6,8 @@
 
 **New — [PKA Builder](#pka-builder-custom-exams-for-ccna-classes):** CCNA instructors and students turn one sentence into a custom, graded Packet Tracer exam (`.pka`).
 
+**Also:** the MCP server includes [`paint_create_drawing`](docs/paint.md), which creates a PNG and SVG from a shape description and can open the PNG in Microsoft Paint on Windows.
+
 <sub>Install it by asking your agent: <i>"Install the Packet Tracer MCP from github.com/Mats2208/MCP-Packet-Tracer and set everything up for me."</i></sub>
 
 [![PyPI](https://img.shields.io/pypi/v/packet-tracer-mcp?style=flat-square&logo=pypi&logoColor=white&color=blue&label=pypi)](https://pypi.org/project/packet-tracer-mcp/)

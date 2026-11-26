@@ -44,6 +44,7 @@ To find a tool: search this file for its name, then open that file and search `d
 | `adapters/mcp/tools/live.py` | pt_bridge_status, pt_full_build, pt_live_deploy, pt_open_project, pt_save_project, pt_verify_connectivity |
 | `adapters/mcp/tools/modules.py` | pt_add_module, pt_install_modules_batch, pt_list_modules |
 | `adapters/mcp/tools/nat.py` | pt_apply_nat, pt_remove_nat |
+| `adapters/mcp/tools/paint.py` | paint_create_drawing |
 | `adapters/mcp/tools/planning.py` | pt_deploy, pt_estimate_plan, pt_explain_plan, pt_export, pt_fix_plan, pt_generate_configs, pt_generate_script, pt_get_device_details, pt_list_devices, pt_list_projects, pt_list_templates, pt_load_project, pt_plan_topology, pt_validate_plan |
 | `adapters/mcp/tools/project.py` | pt_backup_config, pt_project_metadata, pt_workspace_options |
 | `adapters/mcp/tools/routing.py` | pt_apply_bgp, pt_apply_hsrp, pt_apply_qos, pt_apply_voice |
